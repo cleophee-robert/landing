@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Aclonica&family=Cutive+Mono&family=El+Messiri:wght@400..700&family=Marcellus&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Tenor+Sans&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+body {
+	font-family: "Roboto Condensed", serif;
+	font-size: 18px;
+	margin: 10px;
+	background-color: #EDEDE9;
+}
+h1 {
+	font-family: "El Messiri", sans-serif;
+}
+a { 
+	font-family: "Arial";
+	text-decoration: none; }
